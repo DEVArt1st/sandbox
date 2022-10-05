@@ -4,9 +4,18 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+
+.panel-row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
 #panel-link{
     text-decoration: none;
 }
+
 .panel{
     background-position: center;
     background-repeat: no-repeat;
